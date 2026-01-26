@@ -5,7 +5,7 @@ Adds:
 - Detailed results table (agent x test case)
 - Summary table (overall)
 - Summary table by agent
-- Optional CSV export
+- CSV export
 
 Run:
   python rice_pest_multi_agent_eval.py
