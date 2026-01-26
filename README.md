@@ -19,6 +19,7 @@ This expert system helps farmers identify common rice pests based on observed sy
 - `rice_pest_expert_standalone.py` - Standalone Python version (recommended, no external dependencies)
 - `rice_pest_expert.py` - Python + CLIPS version (requires clipspy)
 - `rice_pest_rules.clp` - CLIPS rules file
+- `rice_pest_multi_agent_eval.py` - Automated multi-agent evaluation script
 - `requirements.txt` - Python dependencies
 
 ## Installation & Usage
